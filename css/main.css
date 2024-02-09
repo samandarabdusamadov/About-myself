@@ -131,9 +131,10 @@ ul {
     font-size: 14px;
     font-style: normal;
     font-weight: 700;
+    
 
 }
 
-.site-btn:hover {
+.site-btn:active {
     background-color: var(--Neon-Green);
 }
